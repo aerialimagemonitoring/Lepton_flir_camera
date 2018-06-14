@@ -1,0 +1,3 @@
+/home/pi/Desktop/ThermalAndPiCameras/Stereo_cameras/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/ThermalAndPiCameras/Stereo_cameras/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/ThermalAndPiCameras/Stereo_cameras/build/CMakeFiles/Stereo.dir
